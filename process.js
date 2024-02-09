@@ -28,7 +28,7 @@ function start()
             s=-1;
             m++;
         }
-        if(m==59)
+        if(m==60)
         {
             m=0;
             h++;
